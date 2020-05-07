@@ -14,7 +14,7 @@ Basic Structure of the Code:
 10.  After running the code, the classification report will be printed which will show the precision, recall, and f-measure scores for the following classes: 0 and 1.
 
 Compliling the Code
-1. Download NLP_Final.py, contractions.py, and requirements.txt and place into the same project folder.
+1. Download EssayGrading.py, contractions.py, and requirements.txt and place into the same project folder.
 2. Go to python virtual environment (ven) and type “pip install -r requirements.txt”. This will import all the modules and libraries that we used for our project.
 3. Download training_set_rel3.tsv and BigCorpus_5000.cvs and place both into your home directory. This is the data set that we used from an online source.
 4. Comments are noted throughout the entire code that explain what each method does, or what the section of code will return.
